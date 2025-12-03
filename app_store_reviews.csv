@@ -1,0 +1,14 @@
+review_id,platform,rating,review_test,user_name,date,app_version
+1,google play,2,good,test1,11/11/25,2.1.3
+2,google play,3,good,test2,11/12/25,2.1.3
+3,email,5,poor,test3,11/13/25,2.6.1
+4,google play,4,slow,test2,11/14/25,3.0.1
+5,google play,2,slow,test3,11/15/25,3.2.1
+6,google play,2,poor,test1,11/14/25,2.1.3
+7,email,5,expensive,test1,11/11/25,3.0.1
+8,google play,3,good,test3,11/14/25,2.1.3
+9,email,4,poor,test4,11/11/25,3.0.1
+10,email ,4,slow,test4,11/11/25,3.0.2
+11,google play,2,slow,test5,11/15/25,2.1.3
+12,email,3,good,test5,11/15/25,2.1.3
+13,google play,1,slow,test2,11/12/25,2.1.3

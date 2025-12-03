@@ -1,0 +1,23 @@
+source_id,source_type,category,priority,technical_details,suggested_title
+101,email,Bug,High,"Device: Android 12, App v3.2
+Steps:
+1. Login
+2. Tap 'Upload'
+3. App crashes",App crashes on tapping Upload on Android
+102,review,Feature Request,Medium,User requests dark mode option across all screens.,Add dark mode support
+103,email,Complaint,High,User reports frequent session timeouts while working.,Frequent session timeouts reported
+104,review,Praise,Low,User appreciates fast load time and clean UI.,Positive feedback: Fast load time
+105,email,Bug,Critical,"Device: iOS 17, App v4.0
+Steps:
+1. Perform payment
+2. Transaction confirmed
+3. Amount deducted twice",Double charging issue during payment
+106,review,Spam,Low,Unrelated promotional content.,Spam review – remove
+107,email,Feature Request,Low,User wants option to export reports as PDF.,Add PDF export functionality
+108,review,Bug,Medium,"Device: Web Chrome 121
+Steps:
+1. Open dashboard
+2. Filters not applying
+3. Data remains unchanged",Dashboard filters not working
+109,email,Complaint,Medium,Customer service response delay reported.,Slow customer service response
+110,review,Praise,Low,User loves the new onboarding flow.,Positive feedback: Onboarding improvement
